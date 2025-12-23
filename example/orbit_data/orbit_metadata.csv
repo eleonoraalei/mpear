@@ -1,0 +1,12 @@
+index,a,i,t,file
+0,1,0,180,orbit_data/orbit_a1.00_i0.00_t180.00.txt
+1,1,10,180,orbit_data/orbit_a1.00_i10.00_t180.00.txt
+2,1,20,180,orbit_data/orbit_a1.00_i20.00_t180.00.txt
+3,2,60,180,orbit_data/orbit_a2.00_i60.00_t180.00.txt
+4,3,70,180,orbit_data/orbit_a3.00_i70.00_t180.00.txt
+5,6,80,180,orbit_data/orbit_a6.00_i80.00_t180.00.txt
+6,6,100,0,orbit_data/orbit_a6.00_i100.00_t0.00.txt
+7,3,110,0,orbit_data/orbit_a3.00_i110.00_t0.00.txt
+8,2,120,0,orbit_data/orbit_a2.00_i120.00_t0.00.txt
+9,1,160,0,orbit_data/orbit_a1.00_i160.00_t0.00.txt
+10,1,170,0,orbit_data/orbit_a1.00_i170.00_t0.00.txt
